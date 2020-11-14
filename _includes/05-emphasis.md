@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Programming experience**
+* _Python_
+* _Java_
+* _SQL_
+* _R_
+* _Machine learning_
